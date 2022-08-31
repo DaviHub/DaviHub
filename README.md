@@ -1,7 +1,7 @@
 ## **Olá!!! Eu sou o DaviHub** 👋
 
-- 🔭 Atualmente trabalho com Python em Análise de Dados
-- 🌱 Aprimorando meus conheciemntos em manipulação de dados com Python
+- 🔭 Atualmente trabalho com Análise de Dados
+- 🌱 Aprimorando meus conheciemntos em manipulação de dados com Python e SQL
 - 💬 Sou um mero aprendiz nesse mundo...
 - 📫 Contate-me no email: contatodavihub@gmail.com
 - 😄 Ele/Dele
